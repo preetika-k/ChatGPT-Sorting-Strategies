@@ -1,4 +1,6 @@
 # ChatGPT-Sorting-Strategies
+Gnome Sort in Python: A Simple but Efficient Sorting Algorithm
+
 This project implements the gnome sort sorting algorithm in Python. Gnome sort is a simple sorting algorithm that is known to be efficient in practice. It works by repeatedly comparing the current element to the previous element and swapping them if they are in the wrong order.
 
 This project was motivated by the desire to assess whether working with the ChatGPT open-source code in this context would produce a valid result in sorting an experiment using gnome sort.
