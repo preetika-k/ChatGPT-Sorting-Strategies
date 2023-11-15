@@ -13,9 +13,10 @@ Methods: The gnome sort algorithm was implemented in Python using the following 
 - Repeat steps 2-4 until the list is sorted.
 
 # Results:
-The ChatGPT model has been inconsistent in producing precise results, even after multiple attempts. The images below show the script working as expected in one run, but crashing in another.
+The ChatGPT 3.5 model has been inconsistent in producing precise results, even after multiple attempts. The images below show the script working as expected in one run, but crashing in another.
 
+# Success
+<img width="471" alt="Sorting-Working" src="https://github.com/preetika-k/ChatGPT-Sorting-Strategies/assets/84887189/e1daa2a4-ddd3-4980-8891-9abb8d01345f">
 
-<img width="471" alt="Sorting-Working" src="https://github.com/preetika-k/ChatGPT-Sorting-Strategies/assets/84887189/a5df562b-9b2e-4f31-8453-bd3b0eb9a0cc">
-<img width="457" alt="Sorting-Notworking" src="https://github.com/preetika-k/ChatGPT-Sorting-Strategies/assets/84887189/551d7a30-9e58-445b-9d55-4218bd1995b3">
-
+# Fail
+<img width="457" alt="Sorting-Notworking" src="https://github.com/preetika-k/ChatGPT-Sorting-Strategies/assets/84887189/114551b5-8fbe-4815-b396-c140b3cb4e86">
